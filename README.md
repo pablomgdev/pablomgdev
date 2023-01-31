@@ -5,7 +5,7 @@ Used:
 See:
 - https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
  -->
-![](images/banner.png)
+[![](images/banner.png)](https://github.com/pablomgdev)
 
 <!-- Uncomment and edit to pin some repo -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablomgdev&repo=repository-name&theme=transparent)](repository-link) -->
