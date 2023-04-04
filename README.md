@@ -1,4 +1,4 @@
-# Hi 🤟, I'm Pablo Mira García
+# Hi 🤘, I'm Pablo Mira García
 
 [![pablomgdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomgdev&count_private=true&show_icons=true&theme=transparent&custom_title=pablomgdev's%20Github%20Stats)](https://github.com/pablomgdev)
 
